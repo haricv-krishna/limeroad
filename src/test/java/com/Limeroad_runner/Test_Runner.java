@@ -26,6 +26,9 @@ public class Test_Runner extends Base_Class {
 	@BeforeClass
 	public static void launchbrowser() {
 		
+		
+		
+		
 		Launch_Browser("chrome");
 		
 	}

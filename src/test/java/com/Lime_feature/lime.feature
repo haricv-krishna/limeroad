@@ -6,7 +6,7 @@ Feature: limeroad shopping
     And User clicks shop men button
 
   Scenario: user selects the product
-    Given user clicks shoes
+    Given user clicks shoe
 
   Scenario: user selects footware brands
     Given user clicks anujab_Official
